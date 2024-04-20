@@ -21,7 +21,7 @@ function Hero(){
         </h1>
         <div className="w-[300px] h-[2px] bg-blue-600"></div>
         <p className="mb-8 leading-relaxed">
-        Hi, I&aposm Muhammad Asadullah. I&aposm a Front End Web Developer and Gen-AI Engineer who loves to make websites easy to use and beautiful. I use my skills in basic web technologies and AI to create smooth and modern websites. Let&aposs work together to make something great!
+        Hi, I'm Muhammad Asadullah. I'm a Front End Web Developer and Gen-AI Engineer who loves to make websites easy to use and beautiful. I use my skills in basic web technologies and AI to create smooth and modern websites. Let's work together to make something great!
         </p>
         <div className="flex justify-center">
           <Link href={'#Contact'}>
