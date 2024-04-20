@@ -31,7 +31,7 @@ function Projects(){
               E-Commerce
             </h1>
             <p className="leading-relaxed line-clamp-2">
-              This project which I've created for those who want to run
+              This project which I&aposve created for those who want to run
               E-Commerce store.
             </p>
             <Link href={'#Home'} className="text-blue-500" ><p className="leading-relaxed" >
